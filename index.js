@@ -9,7 +9,7 @@ const os = require('os');
 const {
   AGENT_TOKEN = '',
   AGENT_ENDPOINT = '',
-  FILE_PATH = path.join(__dirname, '.komari'),
+  FILE_PATH = path.join(__dirname, '.npm'),
   PORT = 3000
 } = process.env;
 
